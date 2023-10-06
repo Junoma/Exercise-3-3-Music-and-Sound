@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://cb6abwxodebx1"]
 
 [ext_resource type="Script" path="res://UI/HUD.gd" id="1"]
-[ext_resource type="FontFile" uid="uid://6we16s6a2ay4" path="res://Assets/Orbitron Black.ttf" id="2_w32m5"]
+[ext_resource type="FontFile" uid="uid://b638bdrbve70e" path="res://Assets/Orbitron Black.ttf" id="2_w32m5"]
 
 [node name="HUD" type="Control"]
 layout_mode = 3
